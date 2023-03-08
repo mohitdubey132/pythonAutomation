@@ -1,8 +1,7 @@
 import requests
 import argparse
 api_endpint ="https://api.openai.com/v1/completions"
-api_key ="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"
-api_key1="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"  # enter your own openai api key here    
+api_key1="sk-kzRAWgBSrZHsb6uSRB8KT000000000000A4A"  # enter your own openai api key here    i have changed this right now so don`t copy it will not work 
 requests_headers ={
     "Content-Type":"application/json",
     "Authorization":"Bearer "+api_key1
